@@ -5,4 +5,4 @@
 software and Hardware
 ## architecture level
 
-##Why RISC-V for This Edition?
+## Why RISC-V for This Edition?
